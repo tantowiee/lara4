@@ -28,6 +28,7 @@ return array(
 
 	'default' => 'mysql',
 
+	//'default' => 'mongodb',
 	/*
 	|--------------------------------------------------------------------------
 	| Database Connections
